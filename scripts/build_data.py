@@ -59,6 +59,49 @@ def parse_markdown_table(text: str):
     return colegios
 
 
+def merge_aranceles(colegios, data_dir: Path) -> int:
+    """Adjunta info de arancel a cada colegio.
+
+    - 'Financiamiento publico' -> gratis (0), confianza 'gratuito'.
+    - 'Particular pagado' -> busca en data/aranceles.json por 'NOMBRE||COMUNA'.
+      Si no esta, queda null con confianza 'no_investigado'.
+    """
+    aranceles_file = data_dir / "aranceles.json"
+    aranceles = {}
+    if aranceles_file.exists():
+        aranceles = json.loads(aranceles_file.read_text(encoding="utf-8")).get(
+            "aranceles", {}
+        )
+
+    con_dato = 0
+    for c in colegios:
+        if c["tipo"].startswith("Financiamiento"):
+            c["arancel_mensual_clp"] = 0
+            c["arancel_confianza"] = "gratuito"
+            c["arancel_anio"] = None
+            c["arancel_fuente"] = None
+            c["arancel_nota"] = "Financiamiento público (subvención estatal); costo familiar nulo o bajo."
+            continue
+
+        key = f"{c['nombre']}||{c['comuna']}"
+        info = aranceles.get(key)
+        if info:
+            c["arancel_mensual_clp"] = info.get("arancel_mensual_clp")
+            c["arancel_confianza"] = info.get("confianza")
+            c["arancel_anio"] = info.get("anio")
+            c["arancel_fuente"] = info.get("fuente_url")
+            c["arancel_nota"] = info.get("nota")
+            if c["arancel_mensual_clp"]:
+                con_dato += 1
+        else:
+            c["arancel_mensual_clp"] = None
+            c["arancel_confianza"] = "no_investigado"
+            c["arancel_anio"] = None
+            c["arancel_fuente"] = None
+            c["arancel_nota"] = None
+    return con_dato
+
+
 def normaliza_tipo(tipo: str) -> str:
     """Corrige typos comunes de la fuente (ej. 'Fianciamiento')."""
     t = tipo.strip()
@@ -103,6 +146,8 @@ def main():
         print("No se encontraron filas de datos. Revisa el formato de la fuente.")
         sys.exit(1)
 
+    con_arancel = merge_aranceles(colegios, data_dir)
+
     total_alumnos = sum(c["estudiantes"] for c in colegios)
     promedio_nacional_ponderado = round(
         sum(c["promedio"] * c["estudiantes"] for c in colegios) / total_alumnos, 3
@@ -126,9 +171,10 @@ def main():
 
     # Actualiza el manifest con los anios disponibles
     manifest_file = data_dir / "manifest.json"
+    no_anios = {"manifest.json", "aranceles.json"}
     anios = set()
     for f in data_dir.glob("*.json"):
-        if f.name == "manifest.json":
+        if f.name in no_anios:
             continue
         anios.add(f.stem)
     manifest = {"anios": sorted(anios, reverse=True)}
@@ -143,6 +189,7 @@ def main():
     print(f"   colegios: {len(colegios)}")
     print(f"   alumnos totales: {total_alumnos}")
     print(f"   promedio nacional ponderado: {promedio_nacional_ponderado}")
+    print(f"   colegios pagados con arancel investigado: {con_arancel}")
     print(f"   anios en manifest: {manifest['anios']}")
     if embedded:
         print(f"   datos embebidos en: {embedded}")

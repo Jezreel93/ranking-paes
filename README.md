@@ -18,6 +18,15 @@ score_ajustado = (n / (n + m)) · promedio_colegio + (m / (n + m)) · promedio_n
 
 Colegios con pocos alumnos son jalados hacia el promedio nacional; los grandes con buen puntaje se mantienen arriba. En el HTML, `m` es un **slider en vivo**: con `m = 0` recuperás el ranking tradicional.
 
+## Costo-beneficio (arancel)
+
+Además del puntaje ajustado, el ranking incluye una columna de **arancel mensual** y una de **costo-beneficio**:
+
+- Colegios de **financiamiento público = gratis** → mejor costo-beneficio por definición (★).
+- Colegios **pagados**: `costo-beneficio = puntaje ajustado por cada $100.000/mes`. Más alto = más puntos por tu plata.
+
+En Chile **no hay listado oficial de aranceles** de colegios particulares pagados, así que se investigaron a mano los ~50 mejor rankeados desde sitios oficiales y prensa. Los datos viven en `data/aranceles.json` (clave `NOMBRE||COMUNA`), con fuente y nivel de confianza por colegio. Los que no publican precio quedan como `s/i`. Para agregar/corregir un arancel, editá ese archivo y volvé a correr el parser. Montos referenciales (varían por nivel), UF ≈ $39.000.
+
 ## Cómo usarlo
 
 `index.html` es **autocontenido**: los datos viven embebidos dentro del propio archivo. Solo abrilo con doble clic en cualquier navegador (no necesita servidor) y podés pasárselo a quien quieras como un único archivo.
