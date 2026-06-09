@@ -14,11 +14,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 30,
       "promedio": 893.417,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 480000,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://cambridgecollege.cl/admision/aranceles-y-matriculas/",
+      "arancel_nota": "$480.000/mes básica; media $512.000/mes. Matrícula básica $513.000."
     },
     {
       "lugar_original": 2,
@@ -67,10 +67,10 @@
       "estudiantes": 35,
       "promedio": 867.343,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
+      "arancel_confianza": "no_encontrado",
       "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_fuente": "https://www.colegiohuinganal.cl/",
+      "arancel_nota": "No publica aranceles."
     },
     {
       "lugar_original": 6,
@@ -79,11 +79,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 27,
       "promedio": 863.241,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 308000,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.franciscoencina.cl/admision/aranceles/",
+      "arancel_nota": "$308.000/mes (1°-6° básico, alumnos nuevos, 10 cuotas). Matrícula $300.000."
     },
     {
       "lugar_original": 7,
@@ -261,11 +261,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 36,
       "promedio": 842.347,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 604500,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://trebulco.cl/admision-2025/",
+      "arancel_nota": "155 UF anual (1°básico-IV medio, 1er hijo) /10 = 15,5 UF/mes. Matrícula 16 UF."
     },
     {
       "lugar_original": 21,
@@ -391,11 +391,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 38,
       "promedio": 830.895,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 910026,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://admisiones.lintac.cl/en/fee-lo-barnechea/",
+      "arancel_nota": "233,34 UF anual (básica/media) /10 = 23,33 UF/mes. Matrícula 12 UF."
     },
     {
       "lugar_original": 31,
@@ -430,11 +430,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 44,
       "promedio": 829.08,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 655980,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.css.cl/sitio-web/wp-content/uploads/2025/12/Aranceles-2026.pdf",
+      "arancel_nota": "16,82 UF/mes (I-IV medio, no suizos, 10 cuotas). Matrícula 14,61 UF."
     },
     {
       "lugar_original": 34,
@@ -547,11 +547,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 38,
       "promedio": 825.75,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 616200,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "http://colegiomontemar.cl/wp-content/uploads/2026/03/Aranceles-SIEL-2026.pdf",
+      "arancel_nota": "15,8 UF/mes (básica y media, mar-dic)."
     },
     {
       "lugar_original": 43,
@@ -664,11 +664,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 45,
       "promedio": 821.3,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 772200,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://wenlock.cl/valores/",
+      "arancel_nota": "19,8 UF/mes (1°básico-IV medio, 198 UF anual /10). Matrícula 15 UF."
     },
     {
       "lugar_original": 52,
@@ -782,10 +782,10 @@
       "estudiantes": 38,
       "promedio": 815.737,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
+      "arancel_confianza": "no_encontrado",
       "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_fuente": "https://colegiocampanario.cl/",
+      "arancel_nota": "Postulación 2026 sin montos publicados."
     },
     {
       "lugar_original": 61,
@@ -807,11 +807,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 48,
       "promedio": 814.729,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 622050,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.sannicolasdemyra.cl/web/wp-content/uploads/SNM-Tuition-Fees-2026.pdf",
+      "arancel_nota": "159,5 UF anual (7°-IV medio) /10 = 15,95 UF/mes. Matrícula 12 UF."
     },
     {
       "lugar_original": 63,
@@ -860,10 +860,10 @@
       "estudiantes": 43,
       "promedio": 810.86,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_confianza": "no_encontrado",
+      "arancel_anio": "2025",
+      "arancel_fuente": "https://colegiosagradafamilia.cl/www/admision/",
+      "arancel_nota": "Publica matrícula 12 UF; colegiatura en PDF referencial no accesible."
     },
     {
       "lugar_original": 67,
@@ -886,10 +886,10 @@
       "estudiantes": 41,
       "promedio": 809.378,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
+      "arancel_confianza": "no_encontrado",
       "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_fuente": "https://colegiolacruz.cl/",
+      "arancel_nota": "No publica aranceles 2025/2026."
     },
     {
       "lugar_original": 69,
@@ -1042,10 +1042,10 @@
       "estudiantes": 51,
       "promedio": 804.569,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_confianza": "no_encontrado",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.cpv.cl/noticias/informacion-sobre-matricula-2026/",
+      "arancel_nota": "Publica matrícula 17,6 UF; colegiatura mensual se envía por correo, no en web."
     },
     {
       "lugar_original": 81,
@@ -1145,11 +1145,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 44,
       "promedio": 799.159,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 682500,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.lamaisonnette.cl/",
+      "arancel_nota": "17,5 UF/mes (PK-III medio, 10 cuotas). Matrícula 14,5 UF."
     },
     {
       "lugar_original": 89,
@@ -1327,11 +1327,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 46,
       "promedio": 791.576,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 427273,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.colegiocoya.cl/",
+      "arancel_nota": "$4.700.000 anual (1°básico-IV medio) en 11 cuotas = $427.273/mes. Matrícula $470.000."
     },
     {
       "lugar_original": 103,
@@ -1353,11 +1353,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 47,
       "promedio": 790.457,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 468000,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2025",
+      "arancel_fuente": "https://dspuntaarenas.cl/mt-content/uploads/2024/08/circular-informativa-proceso-de-matricula-2025.pdf",
+      "arancel_nota": "120 UF anual (1er hijo básica) /10 = 12 UF/mes. Matrícula 15 UF."
     },
     {
       "lugar_original": 105,
@@ -1392,11 +1392,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 48,
       "promedio": 788.969,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 544100,
+      "arancel_confianza": "media",
+      "arancel_anio": "2024",
+      "arancel_fuente": "https://www.dsls.cl/colegiatura/",
+      "arancel_nota": "$5.441.000 anual media (único dato oficial, 2024) /10 = $544.100/mes. Matrícula $541.000."
     },
     {
       "lugar_original": 108,
@@ -1497,10 +1497,10 @@
       "estudiantes": 46,
       "promedio": 783.065,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
+      "arancel_confianza": "no_encontrado",
       "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_fuente": "https://colegioquimahue.cl/",
+      "arancel_nota": "No publica aranceles; solo contacto de finanzas."
     },
     {
       "lugar_original": 116,
@@ -1562,10 +1562,10 @@
       "estudiantes": 50,
       "promedio": 780.84,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
+      "arancel_confianza": "no_encontrado",
       "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_fuente": "https://colegiosanlorenzo.cl/",
+      "arancel_nota": "Matrícula vía plataforma FullCollege; sin montos en web."
     },
     {
       "lugar_original": 121,
@@ -1626,11 +1626,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 53,
       "promedio": 778.349,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 471900,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://stpaul.cl/vacantes/",
+      "arancel_nota": "121 UF anual (K-IV medio) /10 = 12,1 UF/mes. Matrícula 13,1 UF."
     },
     {
       "lugar_original": 126,
@@ -1678,11 +1678,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 57,
       "promedio": 776.254,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 358800,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.colegioiac.cl/?page_id=441",
+      "arancel_nota": "92 UF anual (básica/media) /10 = 9,2 UF/mes."
     },
     {
       "lugar_original": 130,
@@ -1731,10 +1731,10 @@
       "estudiantes": 52,
       "promedio": 774.683,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
+      "arancel_confianza": "no_encontrado",
       "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_fuente": "https://www.dsla.cl/",
+      "arancel_nota": "No publica montos en circulares ni web."
     },
     {
       "lugar_original": 134,
@@ -1808,11 +1808,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 51,
       "promedio": 770.167,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 548500,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.dsvaldivia.cl/valores-y-arancel-2/",
+      "arancel_nota": "$548.500/mes (1°básico-IV medio, 10 cuotas). Matrícula $492.000 (+seguro $98.000)."
     },
     {
       "lugar_original": 140,
@@ -1822,10 +1822,10 @@
       "estudiantes": 56,
       "promedio": 770.089,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
+      "arancel_confianza": "no_encontrado",
       "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_fuente": "https://www.dspuertovaras.com/",
+      "arancel_nota": "No publica tabla de aranceles 2025/2026."
     },
     {
       "lugar_original": 141,
@@ -1925,11 +1925,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 60,
       "promedio": 767.575,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 428050,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://windsorschool.cl/",
+      "arancel_nota": "$428.050/mes (1°-8° básico). I-IV medio $444.060. Matrícula $460.000."
     },
     {
       "lugar_original": 149,
@@ -2004,10 +2004,10 @@
       "estudiantes": 60,
       "promedio": 764.633,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
+      "arancel_confianza": "no_encontrado",
       "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_fuente": "https://www.cabpampa.cl/",
+      "arancel_nota": "No publica aranceles 2025/2026."
     },
     {
       "lugar_original": 155,
@@ -2042,11 +2042,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 69,
       "promedio": 762.551,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 492400,
+      "arancel_confianza": "media",
+      "arancel_anio": "2025",
+      "arancel_fuente": "https://www.timeline.cl/esto-sale-estudiar-en-los-colegios-de-antofagasta-con-mejores-resultados-en-la-paes-anualidad-puede-superar-los-5-millones/",
+      "arancel_nota": "Prensa (consultó al colegio): $492.400/mes. Matrícula $410.280."
     },
     {
       "lugar_original": 158,
@@ -2146,11 +2146,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 62,
       "promedio": 760.718,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 512000,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://hssanesteban.cl/valores/",
+      "arancel_nota": "$512.000/mes (1°básico-III medio, 10 cuotas). Pre-básica $424.000."
     },
     {
       "lugar_original": 166,
@@ -2172,11 +2172,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 61,
       "promedio": 759.008,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 495600,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://stdominics.cl/admision/aranceles-y-vacantes/",
+      "arancel_nota": "$495.600 x10 cuotas (K-IV medio). Matrícula $542.000."
     },
     {
       "lugar_original": 168,
@@ -2237,11 +2237,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 70,
       "promedio": 757.171,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 405600,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.pumahue.cl/puerto-montt/admision/aranceles/",
+      "arancel_nota": "10,4 UF/mes básica tradicional. Matrícula 12,5 UF."
     },
     {
       "lugar_original": 173,
@@ -2251,10 +2251,10 @@
       "estudiantes": 56,
       "promedio": 756.321,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
+      "arancel_confianza": "no_encontrado",
       "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_fuente": "https://sekpacifico.com/",
+      "arancel_nota": "Aranceles se fijan al formalizar contrato; no publicados."
     },
     {
       "lugar_original": 174,
@@ -2355,10 +2355,10 @@
       "estudiantes": 72,
       "promedio": 752.333,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
+      "arancel_confianza": "no_encontrado",
       "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_fuente": "https://www.colegiocsa.cl/",
+      "arancel_nota": "No publica montos; solo proceso de admisión."
     },
     {
       "lugar_original": 182,
@@ -2380,11 +2380,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 57,
       "promedio": 751.868,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 410000,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.osornocollege.cl/wp-content/uploads/2025/07/valores_2026.pdf",
+      "arancel_nota": "$410.000/mes (1°básico-IV medio, 10 cuotas). Matrícula $385.000."
     },
     {
       "lugar_original": 184,
@@ -2419,11 +2419,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 73,
       "promedio": 750.473,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 440700,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://thegreenlandschool.cl/aranceles/",
+      "arancel_nota": "11,3 UF/mes básica tradicional (10 cuotas). Matrícula 13,6 UF."
     },
     {
       "lugar_original": 187,
@@ -2549,11 +2549,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 81,
       "promedio": 747.605,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 471440,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.chb.cl/sitio/admision-2026-2/",
+      "arancel_nota": "$4.714.400 anual /10 = $471.440/mes. Matrícula $471.440."
     },
     {
       "lugar_original": 197,
@@ -2575,11 +2575,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 71,
       "promedio": 747.155,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 362600,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.ihc.cl/admision/",
+      "arancel_nota": "$3.626.000 anual (3°básico-IV medio) /10 = $362.600/mes. Matrícula $302.000."
     },
     {
       "lugar_original": 199,
@@ -2732,10 +2732,10 @@
       "estudiantes": 87,
       "promedio": 744.575,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
+      "arancel_confianza": "no_encontrado",
       "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_fuente": "https://colegiocapellanpascal.cl/",
+      "arancel_nota": "No publica aranceles 2025/2026."
     },
     {
       "lugar_original": 211,
@@ -2757,11 +2757,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 62,
       "promedio": 743.694,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 370500,
+      "arancel_confianza": "media",
+      "arancel_anio": "2025",
+      "arancel_fuente": "http://www.colegiogermania.cl/principal/admision-2026/",
+      "arancel_nota": "95 UF anual (referencia 2025) /10 = 9,5 UF/mes. Matrícula 15 UF."
     },
     {
       "lugar_original": 213,
@@ -2796,11 +2796,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 62,
       "promedio": 742.661,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 455000,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://colegioteo.cl/archivos/archivos/Aranceles_2026_y_2027.pdf",
+      "arancel_nota": "$4.550.000 anual (1°básico-II medio) /10 = $455.000/mes. Matrícula $460.000."
     },
     {
       "lugar_original": 216,
@@ -2848,11 +2848,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 71,
       "promedio": 740.296,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 156635,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.colegioconcepcionchiguayante.cl/2025/10/15/circular-n33-2025-cobro-del-financiamiento-compartido/",
+      "arancel_nota": "Financiamiento compartido (copago): $1.566.350 anual /10 = $156.635/mes. Sin otros cobros."
     },
     {
       "lugar_original": 220,
@@ -2992,10 +2992,10 @@
       "estudiantes": 78,
       "promedio": 736.821,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
+      "arancel_confianza": "no_encontrado",
       "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_fuente": "https://www.lasalletalca.cl/",
+      "arancel_nota": "Valores solo en portal privado de apoderados."
     },
     {
       "lugar_original": 231,
@@ -3056,11 +3056,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 99,
       "promedio": 735.02,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 296400,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.manquecura.cl/ciudad-del-este/admision/aranceles/",
+      "arancel_nota": "7,6 UF/mes básica. Media 8 UF/mes. Matrícula 9,1 UF."
     },
     {
       "lugar_original": 236,
@@ -3148,10 +3148,10 @@
       "estudiantes": 74,
       "promedio": 733.872,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
+      "arancel_confianza": "no_encontrado",
       "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_fuente": "https://www.colegiobautista.cl/",
+      "arancel_nota": "No publica montos 2025/2026."
     },
     {
       "lugar_original": 243,
@@ -3199,11 +3199,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 83,
       "promedio": 733.229,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 405600,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.pumahue.cl/temuco/admision/aranceles/",
+      "arancel_nota": "10,4 UF/mes básica tradicional. Matrícula 12,5 UF."
     },
     {
       "lugar_original": 247,
@@ -3382,10 +3382,10 @@
       "estudiantes": 99,
       "promedio": 726.672,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
+      "arancel_confianza": "no_encontrado",
       "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_fuente": "https://sanmateo.cl/admision/",
+      "arancel_nota": "Colegiatura 2025/2026 no publicada (solo matrícula futura)."
     },
     {
       "lugar_original": 261,
@@ -3433,11 +3433,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 110,
       "promedio": 725.077,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 450450,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.cpvagustinas.cl/admisiones/valores",
+      "arancel_nota": "115,5 UF anual (I-IV medio) /10 = 11,55 UF/mes. Matrícula 16,5 UF."
     },
     {
       "lugar_original": 265,
@@ -3472,11 +3472,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 93,
       "promedio": 724.247,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 484000,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://luiscampino.cl/pagos/",
+      "arancel_nota": "$484.000 x10 cuotas (1°básico-IV medio). PK/K $408.500."
     },
     {
       "lugar_original": 268,
@@ -3538,10 +3538,10 @@
       "estudiantes": 82,
       "promedio": 722.677,
       "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
+      "arancel_confianza": "no_encontrado",
       "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_fuente": "https://www.sje.cl/",
+      "arancel_nota": "No publica tabla de aranceles 2025/2026."
     },
     {
       "lugar_original": 273,
@@ -3901,11 +3901,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 126,
       "promedio": 714.032,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 406600,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.lms.cl/matricula-y-aranceles-2026/",
+      "arancel_nota": "$4.066.000 anual /10 = $406.600/mes. Matrícula $293.000."
     },
     {
       "lugar_original": 301,
@@ -3992,11 +3992,11 @@
       "tipo": "Particular pagado",
       "estudiantes": 96,
       "promedio": 711.938,
-      "arancel_mensual_clp": null,
-      "arancel_confianza": "no_investigado",
-      "arancel_anio": null,
-      "arancel_fuente": null,
-      "arancel_nota": null
+      "arancel_mensual_clp": 375000,
+      "arancel_confianza": "alta",
+      "arancel_anio": "2026",
+      "arancel_fuente": "https://www.academiahumanidades.cl/wp-content/uploads/MATRICULA-2026_CIRCULAR-2-2.pdf",
+      "arancel_nota": "$375.000/mes (1°básico-IV medio) en 9 cuotas. Matrícula $482.000."
     },
     {
       "lugar_original": 308,
